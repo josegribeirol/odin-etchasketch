@@ -1,0 +1,16 @@
+body {
+    background-color: white
+}
+
+#grid_container {
+    border: 1px solid red;
+    display: flex;
+    padding: 10px;
+    gap: 2px;
+    flex-wrap: wrap;
+    width: 382px;
+}
+
+.grid-item {
+    border: 1px solid blue;
+}
